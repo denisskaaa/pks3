@@ -45,4 +45,7 @@
 ```
 
 ## Скриншоты
+![photo_2024-12-26_23-47-47](https://github.com/user-attachments/assets/96d9eebd-de36-4164-b059-6588261015bc)
+![photo_2024-12-26_23-47-55](https://github.com/user-attachments/assets/99d496fb-14fa-4500-94d9-40a384bca3e8)
+![photo_2024-12-26_23-47-52](https://github.com/user-attachments/assets/94f88eb5-1498-4f53-b3b2-2d2966c95b49)
 
